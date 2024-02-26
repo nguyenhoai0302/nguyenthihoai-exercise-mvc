@@ -4,3 +4,4 @@
         <li><?= $fruit->name . ' costs ' . $fruit->price . '$';; ?></li>
     <?php endforeach; ?>
 </ul>
+
